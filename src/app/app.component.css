@@ -1,0 +1,21 @@
+.masthead
+{
+    background-image: url('https://neilpatel.com/wp-content/uploads/2018/10/blog.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.post-preview>a:focus, .post-preview>a:hover {
+    text-decoration: none;
+    color: #0085a1;
+}
+.navbar
+{
+    background-color: gray;
+    opacity: 50%;
+}
+.navbar:hover
+{
+    opacity: 100%;
+}
